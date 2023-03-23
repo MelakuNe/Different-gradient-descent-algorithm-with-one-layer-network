@@ -1,5 +1,5 @@
-## Optimizing a perceptron for document classification https://www.kaggle.com/competitions/intro-to-stoch-opti-project-1/overview
-Objectives of the project and evaluation
+## Optimizing a perceptron for document classification
+Objectives of the project and evaluation https://www.kaggle.com/competitions/intro-to-stoch-opti-project-1/overview
 ## Objective 1
 The first goal of this project is to build a classifier for documents using a neural network with one layer a.k.a. a perceptron, which is a classifier based on a non-linear activation applied to a linear model.
 
